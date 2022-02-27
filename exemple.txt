@@ -1,0 +1,10 @@
+NUMERIC A <- (-4.5)
+INTEGER H <- 5
+INTEGER T[8]
+LOGICAL P <- FALSE
+CHARACTER Y <- 'i'
+H<-A
+T<-P
+Y<-(-2)
+FOR(I IN 0:2){A+<-1}
+B<-IFELSE(A+H>T[0]-1,1+2,1-2)
